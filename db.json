@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "email": "shankar@gamil.com",
+      "password": "123",
+      "username": "shankar",
+      "doctorcheckbox": true,
+      "id": 1
+    },
+    {
+      "email": "abcd@gmail.com",
+      "password": "abcd@gmail.com",
+      "username": "abcd",
+      "doctorcheckbox": false,
+      "id": 2
+    }
+  ],
+  "appointments": [
+    {
+      "name": "shankar",
+      "image": "https://www.advinohealthcare.com/wp-content/uploads/2020/08/shutterstock_155685458.jpg",
+      "specialization": "Cardiologist",
+      "experience": "23",
+      "location": "bangalore",
+      "fee": "23443",
+      "slots": "4",
+      "date": "2023-05-10T14:31",
+      "id": 1
+    },
+    {
+      "name": "Jane Doe",
+      "image": "https://wallpaperaccess.com/full/3464192.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150,
+      "id": 2
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://www.advinohealthcare.com/wp-content/uploads/2020/08/shutterstock_155685458.jpg",
+      "specialization": "Psychiatrist",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100,
+      "id": 3
+    },
+    {
+      "name": "shankar",
+      "image": "https://wallpaperaccess.com/full/3464192.jpg",
+      "specialization": "Pediatrician",
+      "experience": "23",
+      "location": "bangalore",
+      "fee": "23443",
+      "slots": "4",
+      "date": "2023-05-10T14:31",
+      "id": 4
+    },
+    {
+      "name": "Jane Doe",
+      "image": "https://www.advinohealthcare.com/wp-content/uploads/2020/08/shutterstock_155685458.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150,
+      "id": 5
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://wallpaperaccess.com/full/3464192.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100,
+      "id": 6
+    },
+    {
+      "name": "shankar",
+      "image": "https://www.advinohealthcare.com/wp-content/uploads/2020/08/shutterstock_155685458.jpg",
+      "specialization": "Psychiatrist",
+      "experience": "23",
+      "location": "bangalore",
+      "fee": "23443",
+      "slots": "4",
+      "date": "2023-05-10T14:31",
+      "id": 7
+    },
+    {
+      "name": "Jane Doe",
+      "image": "https://www.advinohealthcare.com/wp-content/uploads/2020/08/shutterstock_155685458.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150,
+      "id": 8
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://www.advinohealthcare.com/wp-content/uploads/2020/08/shutterstock_155685458.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100,
+      "id": 9
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Cardiologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Cardiologist",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ]
+}
